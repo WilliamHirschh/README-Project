@@ -1,0 +1,78 @@
+body {
+    display: block;
+    background-color: rgb(43, 43, 43);
+    text-align: center;
+    padding-left: 190px;
+    padding-right: 190px;
+}
+
+.header {
+    color: white;
+    font-size: 70px;
+}
+.Descript {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+.tableofcontents {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+.Installation {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+
+.usage {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+
+.contribution {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+
+.test {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+
+.questions {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+
+.license {
+    color: white;
+    font-size: 50px;
+    text-decoration-line: underline;
+}
+
+.description {
+    color: white;
+    font-size: 20px;
+    
+}
+
+.LicenseFiller {
+    color: white;
+    font-size: 20px;
+}
+
+.links {
+    color: rgb(56, 175, 205);
+    font-size: 20px;
+}
+
+.img {
+    width: 50px;
+    height: 30px;
+}

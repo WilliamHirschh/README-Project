@@ -1,16 +1,30 @@
-# README node project
+
+# README
+
+## Table of Contents
+- [Description](#description)
+- [Usage](#usage)
+- [Contributing](#contribution)
+- [Installation](#installation)
+- [Questions](#email)
+- [License](#license)
 
 ## Description
-The README node project was built to act as a simplier way to create professional readme's all in the terminal using node!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-## Usage
-The usage of this project is to reduce the time making a readme and having it make you only fill out what is necessary.
+## Usage 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ## Installation
-Open the terminal in vsCode and run "npm i". After that run "node script.js" The terminal will ask you questions and the answers.html will update.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-## Links
-[Link to Repo](https://github.com/WilliamHirschh/README-Project)
+## Contribution
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+## Questions
+Williamhirschh
+Williamhirschh@gmail.com
 
 ## License
 MIT License
+        

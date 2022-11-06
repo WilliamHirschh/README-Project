@@ -1,29 +1,22 @@
 
-# README
+# README Generator
 
-## Table of Contents
-- [Description](#description)
-- [Usage](#usage)
-- [Contributing](#contribution)
-- [Installation](#installation)
-- [Questions](#email)
-- [License](#license)
+
 
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This readme generator was built to reduce the time it takes to make a quality readme. Using node you can type in your inputs and get a rich readme in seconds!
 
 ## Usage 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Generate a readme by using the terminal with node
 
 ## Installation
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To start run "npm i" in the terminal and then "node script.js" after it has installed. Once that is done start typing your inputs and open the generated readme
 
-## Contribution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 
 ## Links
 [Link to Repo](https://github.com/WilliamHirschh/README-Project)
-[Link to demo video](https://drive.google.com/file/d/1-IOlg0UvNL5o1emVjSenEr5wa9qVQe2B/view?usp=share_link)
+[Link to demo video](https://drive.google.com/file/d/18DZU6Spkihl8ie4V1MwutN4gne-LLyb6/view?usp=sharing)
 
 ## License
 MIT License
